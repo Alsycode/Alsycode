@@ -9,7 +9,7 @@ I love building scalable web applications and exploring new technologies. Check 
 ## 📬 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/robin-jr" target="_blank">
+  <a href="https://www.linkedin.com/in/alfredshyamreactdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 40px;"/>
   </a>
   <a href="https://discordapp.com/users/770988400047947796" target="_blank">
