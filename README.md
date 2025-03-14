@@ -77,7 +77,7 @@ I love building scalable web applications and exploring new technologies. Check 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJRYT&layout=compact&theme=radical&hide_border=true&hide=css,scss,html,pawn" height="160px" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RJRYT&theme=radical" height="160px" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alsycode&theme=radical" height="160px" alt="Profile Details" />
 </p>
 
 ## 🌍 Visitor Count  
@@ -87,10 +87,7 @@ I love building scalable web applications and exploring new technologies. Check 
 </p>
 
 ## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RJRYT&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsycode" alt="alsycode" /></a> </p>
 
 
 
