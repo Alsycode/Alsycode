@@ -2,7 +2,7 @@
 
 **A Passionate Full Stack Developer (MERN)**  
 
-I love building scalable web applications and exploring new technologies. Check out my **[Portfolio](https://rjryt.github.io/)** to see my projects in action!  
+I love building scalable web applications and exploring new technologies. Check out my **[Portfolio](https://alfreactdev.netlify.app/)** to see my projects in action!  
 
 💡 Always eager to learn and collaborate with fellow developers. Let's connect and create something amazing!  
 
@@ -52,7 +52,12 @@ I love building scalable web applications and exploring new technologies. Check 
   <img src="https://img.shields.io/badge/WebSockets-0078D4?style=for-the-badge&logo=websocket&logoColor=white" style="height: 40px;"/>
 
 </p>
+<p align="center">
 
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" style="height: 40px;"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" style="height: 40px;"/>
  
@@ -61,30 +66,23 @@ I love building scalable web applications and exploring new technologies. Check 
 
 </p>
 
-<p align="center">
 
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" style="height: 40px;"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" style="height: 40px;"/>
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" style="height: 40px;"/>
-</p>
 
 ## 📊 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RJRYT&show_icons=true&theme=radical&hide_border=true" height="160px" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RJRYT&theme=radical&hide_border=true" height="160px" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alsycode&show_icons=true&theme=radical&hide_border=true" height="160px" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Alsycode&theme=radical&hide_border=true" height="160px" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJRYT&layout=compact&theme=radical&hide_border=true&hide=css,scss,html,pawn" height="160px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alsycode&layout=compact&theme=radical&hide_border=true&hide=css,scss,html,pawn" height="160px" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alsycode&theme=radical" height="160px" alt="Profile Details" />
 </p>
 
-## 🌍 Visitor Count  
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/RJRYT/count.svg" alt="Visitor's Count | RJRYT" height="40px"/>
-</p>
+
+
 
 ## 🏆 GitHub Trophies  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsycode" alt="alsycode" /></a> </p>
