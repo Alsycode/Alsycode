@@ -12,24 +12,19 @@ I love building scalable web applications and exploring new technologies. Check 
   <a href="https://www.linkedin.com/in/alfredshyamreactdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 40px;"/>
   </a>
-  <a href="https://discordapp.com/users/770988400047947796" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="height: 40px;"/>
-  </a>
-  <a href="mailto:robinjratr@gmail.com" target="_blank">
+ 
+  <a href="mailto:shyamalfred@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height: 40px;"/>
   </a>
+  <a href="https://www.instagram.com/alfy1220" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="height: 40px;"/>
+  </a>
+
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/rjryt_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="height: 40px;"/>
-  </a>
-  <a href="https://twitter.com/rjryt_official" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="height: 40px;"/>
-  </a>
-  <a href="https://replit.com/@somaliyo" target="_blank">
-    <img src="https://img.shields.io/badge/Replit-FF5722?style=for-the-badge&logo=replit&logoColor=white" style="height: 40px;"/>
-  </a>
+
+
 </p>
 
 
