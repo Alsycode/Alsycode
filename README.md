@@ -92,21 +92,5 @@ I love building scalable web applications and exploring new technologies. Check 
   <img src="https://github-profile-trophy.vercel.app/?username=RJRYT&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
 </p>
 
-## 💖 Support My Work  
 
-If you find my projects helpful and want to support my work, consider buying me a coffee or making a small donation. Your support keeps me motivated to create more awesome stuff!  
 
-<p align="center">
-  <a href="https://github.com/sponsors/RJRYT" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="40"/>
-  </a>
-  <a href="https://buymeacoffee.com/rjryt" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40"/>
-  </a>
-  <a href="https://paypal.me/robinjra" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="40"/>
-  </a>
-  <a href="https://patreon.com/rjryt" target="_blank">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="40"/>
-  </a>
-</p>
